@@ -1,2 +1,7 @@
-# proyecto22dias
-Se creo el proyecto de 22 dias donde se crearan programas diarios 
+# Curso de Programacion Orientada a Objetos 
+
+## Indice 
+
+|No1.|Archivo|Descripcion|
+|--|--|--|
+|1.|proyecto1.py|no se que voy hacer aqui|
